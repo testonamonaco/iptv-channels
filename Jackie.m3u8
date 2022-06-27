@@ -1,48 +1,48 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="MBC1.ae" tvg-name="MBC 1" group-title="MBC GROUP",MBC 1
+#EXTINF:0 tvg-id="MBC1.ae" tvg-name="MBC 1" group-title="MBC Group",MBC 1
 http://b1g.one:80/Jackie/Jackie/86135
-#EXTINF:0 tvg-id="MBC1.ae" tvg-name="MBC 1" group-title="MBC GROUP",MBC 1 HD
+#EXTINF:0 tvg-id="MBC1.ae" tvg-name="MBC 1" group-title="MBC Group",MBC 1 HD
 http://b1g.one:80/Jackie/Jackie/86136
-#EXTINF:0 tvg-id="MBC2(src01).ae" tvg-name="MBC 2" group-title="MBC GROUP",MBC 2
+#EXTINF:0 tvg-id="MBC2(src01).ae" tvg-name="MBC 2" group-title="MBC Group",MBC 2
 http://b1g.one:80/Jackie/Jackie/86137
-#EXTINF:0 tvg-id="MBC2(src01).ae" tvg-name="MBC 2" group-title="MBC GROUP",MBC 2 HD
+#EXTINF:0 tvg-id="MBC2(src01).ae" tvg-name="MBC 2" group-title="MBC Group",MBC 2 HD
 http://b1g.one:80/Jackie/Jackie/86138
-#EXTINF:0 tvg-id="MBC3.ae" tvg-name="MBC 3" group-title="MBC GROUP",MBC 3
+#EXTINF:0 tvg-id="MBC3.ae" tvg-name="MBC 3" group-title="MBC Group",MBC 3
 http://b1g.one:80/Jackie/Jackie/86139
-#EXTINF:0 tvg-id="MBC3.ae" tvg-name="MBC 3" group-title="MBC GROUP",MBC 3 HD
+#EXTINF:0 tvg-id="MBC3.ae" tvg-name="MBC 3" group-title="MBC Group",MBC 3 HD
 http://b1g.one:80/Jackie/Jackie/86140
-#EXTINF:0 tvg-id="MBC4.ae" tvg-name="MBC 4" group-title="MBC GROUP",MBC 4
+#EXTINF:0 tvg-id="MBC4.ae" tvg-name="MBC 4" group-title="MBC Group",MBC 4
 http://b1g.one:80/Jackie/Jackie/86141
-#EXTINF:0 tvg-id="MBC4.ae" tvg-name="MBC 4" group-title="MBC GROUP",MBC 4 HD
+#EXTINF:0 tvg-id="MBC4.ae" tvg-name="MBC 4" group-title="MBC Group",MBC 4 HD
 http://b1g.one:80/Jackie/Jackie/86142
-#EXTINF:0 tvg-name="MBC 5" group-title="MBC GROUP",MBC 5
+#EXTINF:0 tvg-name="MBC 5" group-title="MBC Group",MBC 5
 http://b1g.one:80/Jackie/Jackie/86143
-#EXTINF:0 tvg-name="MBC IRAQ" group-title="MBC GROUP",MBC IRAQ HD
+#EXTINF:0 tvg-name="MBC IRAQ" group-title="MBC Group",MBC IRAQ HD
 http://b1g.one:80/Jackie/Jackie/86144
-#EXTINF:0 tvg-name="MBC Drama" group-title="MBC GROUP",MBC Drama HD
+#EXTINF:0 tvg-name="MBC Drama" group-title="MBC Group",MBC Drama HD
 http://b1g.one:80/Jackie/Jackie/86145
-#EXTINF:0 tvg-name="MBC Drama" group-title="MBC GROUP",MBC Drama
+#EXTINF:0 tvg-name="MBC Drama" group-title="MBC Group",MBC Drama
 http://b1g.one:80/Jackie/Jackie/86146
-#EXTINF:0 tvg-name="MBC + DRAMA" group-title="MBC GROUP",MBC + DRAMA HD
+#EXTINF:0 tvg-name="MBC + DRAMA" group-title="MBC Group",MBC + DRAMA HD
 http://b1g.one:80/Jackie/Jackie/86147
-#EXTINF:0 tvg-name="MBC Masr" group-title="MBC GROUP",MBC Masr
+#EXTINF:0 tvg-name="MBC Masr" group-title="MBC Group",MBC Masr
 http://b1g.one:80/Jackie/Jackie/86148
-#EXTINF:0 tvg-name="MBC Masr 2" group-title="MBC GROUP",MBC Masr 2
+#EXTINF:0 tvg-name="MBC Masr 2" group-title="MBC Group",MBC Masr 2
 http://b1g.one:80/Jackie/Jackie/86149
-#EXTINF:0 tvg-name="MBC Bollywood" group-title="MBC GROUP",MBC Bollywood
+#EXTINF:0 tvg-name="MBC Bollywood" group-title="MBC Group",MBC Bollywood
 http://b1g.one:80/Jackie/Jackie/86150
-#EXTINF:0 tvg-name="MBC BOLLEYWOD" group-title="MBC GROUP",MBC BOLLEYWOD HD
+#EXTINF:0 tvg-name="MBC BOLLEYWOD" group-title="MBC Group",MBC BOLLEYWOD HD
 http://b1g.one:80/Jackie/Jackie/86151
-#EXTINF:0 tvg-name="MBC MAX" group-title="MBC GROUP",MBC MAX
+#EXTINF:0 tvg-name="MBC MAX" group-title="MBC Group",MBC MAX
 http://b1g.one:80/Jackie/Jackie/86152
-#EXTINF:0 tvg-name="MBC MAX" group-title="MBC GROUP",MBC MAX HD
+#EXTINF:0 tvg-name="MBC MAX" group-title="MBC Group",MBC MAX HD
 http://b1g.one:80/Jackie/Jackie/86153
-#EXTINF:0 tvg-name="MBC ACTION" group-title="MBC GROUP",MBC ACTION
+#EXTINF:0 tvg-name="MBC ACTION" group-title="MBC Group",MBC ACTION
 http://b1g.one:80/Jackie/Jackie/86154
-#EXTINF:0 tvg-name="MBC Action" group-title="MBC GROUP",MBC Action HD
+#EXTINF:0 tvg-name="MBC Action" group-title="MBC Group",MBC Action HD
 http://b1g.one:80/Jackie/Jackie/86155
-#EXTINF:0 tvg-name="MBC Variety" group-title="MBC GROUP",MBC Variety HD
+#EXTINF:0 tvg-name="MBC Variety" group-title="MBC Group",MBC Variety HD
 http://b1g.one:80/Jackie/Jackie/86156
 
 
