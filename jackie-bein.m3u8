@@ -1,33 +1,36 @@
 #EXTM3U
-#EXTINF:0 tvg-name="beIN Sports Premium  1" group-title="BeIN Media",beIN Sports Premium  1 SD
+#EXTINF:0 tvg-id="beinsports1premiumar.qa" tvg-name="beIN Sports Premium  1" group-title="BeIN Media",beIN Sports Premium  1 SD
 http://b1g.one:80/Jackie/Jackie/257533
-#EXTINF:0 tvg-name="beIN Sports Premium  2" group-title="BeIN Media",beIN Sports Premium  2 SD
+#EXTINF:0 tvg-id="beinsports2premiumar.qa" tvg-name="beIN Sports Premium  2" group-title="BeIN Media",beIN Sports Premium  2 SD
 http://b1g.one:80/Jackie/Jackie/257534
-#EXTINF:0 tvg-name="beIN Sports Premium  3" group-title="BeIN Media",beIN Sports Premium  3 SD
+#EXTINF:0 tvg-id="beinsports3premiumar.qa" tvg-name="beIN Sports Premium  3" group-title="BeIN Media",beIN Sports Premium  3 SD
 http://b1g.one:80/Jackie/Jackie/257535
-#EXTINF:0 tvg-name="beIN Sports 1" group-title="BeIN Media",beIN Sports 1 SD
+
+#EXTINF:0 tvg-id="beinsports1ar.qa" tvg-name="beIN Sports 1" group-title="BeIN Media",beIN Sports 1 SD
 http://b1g.one:80/Jackie/Jackie/257536
-#EXTINF:0 tvg-name="beIN Sports 2" group-title="BeIN Media",beIN Sports 2 SD
+#EXTINF:0 tvg-id="beinsports2ar.qa" tvg-name="beIN Sports 2" group-title="BeIN Media",beIN Sports 2 SD
 http://b1g.one:80/Jackie/Jackie/257537
-#EXTINF:0 tvg-name="beIN Sports 3" group-title="BeIN Media",beIN Sports 3 SD
+#EXTINF:0 tvg-id="beinsports3ar.qa" tvg-name="beIN Sports 3" group-title="BeIN Media",beIN Sports 3 SD
 http://b1g.one:80/Jackie/Jackie/257538
-#EXTINF:0 tvg-name="beIN Sports 4" group-title="BeIN Media",beIN Sports 4 SD
+#EXTINF:0 tvg-id="beinsports4ar.qa" tvg-name="beIN Sports 4" group-title="BeIN Media",beIN Sports 4 SD
 http://b1g.one:80/Jackie/Jackie/257539
-#EXTINF:0 tvg-name="beIN Sports 5" group-title="BeIN Media",beIN Sports 5 SD
+#EXTINF:0 tvg-id="beinsports5ar.qa" tvg-name="beIN Sports 5" group-title="BeIN Media",beIN Sports 5 SD
 http://b1g.one:80/Jackie/Jackie/257540
-#EXTINF:0 tvg-name="beIN Sports 6" group-title="BeIN Media",beIN Sports 6 SD
+#EXTINF:0 tvg-id="beinsports6ar.qa" tvg-name="beIN Sports 6" group-title="BeIN Media",beIN Sports 6 SD
 http://b1g.one:80/Jackie/Jackie/257541
-#EXTINF:0 tvg-name="beIN Sports 7" group-title="BeIN Media",beIN Sports 7 SD
+#EXTINF:0 tvg-id="beinsports7ar.qa" tvg-name="beIN Sports 7" group-title="BeIN Media",beIN Sports 7 SD
 http://b1g.one:80/Jackie/Jackie/257542
-#EXTINF:0 tvg-name="beIN Sports 1 EN" group-title="BeIN Media",beIN Sports 1 SD EN
+
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" tvg-name="beIN Sports 1 EN" group-title="BeIN Media",beIN Sports 1 SD EN
 http://b1g.one:80/Jackie/Jackie/257543
-#EXTINF:0 tvg-name="beIN Sports 1 EN" group-title="BeIN Media",beIN Sports 1 SD EN
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" tvg-name="beIN Sports 1 EN" group-title="BeIN Media",beIN Sports 1 SD EN
 http://b1g.one:80/Jackie/Jackie/257544
-#EXTINF:0 tvg-name="beIN Sports Max 1" group-title="BeIN Media",beIN Sports MAX 1 SD
+
+#EXTINF:0 tvg-id="beINSportsMax1.qa" tvg-name="beIN Sports Max 1" group-title="BeIN Media",beIN Sports MAX 1 SD
 http://b1g.one:80/Jackie/Jackie/257545
-#EXTINF:0 tvg-name="beIN Sports Max 2" group-title="BeIN Media",beIN Sports MAX 2 SD
+#EXTINF:0 tvg-id="beINSportsMax1.qa" tvg-name="beIN Sports Max 2" group-title="BeIN Media",beIN Sports MAX 2 SD
 http://b1g.one:80/Jackie/Jackie/257546
-#EXTINF:0 tvg-name="beIN Sports Max 3" group-title="BeIN Media",beIN Sports MAX 3 SD
+#EXTINF:0 tvg-id="beINSportsMax1.qa" tvg-name="beIN Sports Max 3" group-title="BeIN Media",beIN Sports MAX 3 SD
 http://b1g.one:80/Jackie/Jackie/257547
-#EXTINF:0 tvg-name="beIN Sports Max 4" group-title="BeIN Media",beIN Sports MAX 4 SD
+#EXTINF:0 tvg-id="beINSportsMax1.qa" tvg-name="beIN Sports Max 4" group-title="BeIN Media",beIN Sports MAX 4 SD
 http://b1g.one:80/Jackie/Jackie/257548
