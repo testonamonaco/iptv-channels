@@ -72,7 +72,7 @@ http://b1g.one:80/Jackie/Jackie/59522
 http://b1g.one:80/Jackie/Jackie/59523
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59524
-#EXTINF:0 tvg-id="" tvg-name="Boomerang HD" tvg-logo="" group-title="beIN Media",Boomerang HD [No Audio]
+#EXTINF:0 tvg-id="" tvg-name="Boomerang HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="beIN Media",Boomerang HD [No Audio]
 http://b1g.one:80/Jackie/Jackie/59525
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59526
