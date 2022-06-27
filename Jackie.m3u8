@@ -52,6 +52,7 @@ http://b1g.one:80/Jackie/Jackie/86156
 
 #EXTINF:0 tvg-id="" tvg-name="Jeem HD" tvg-logo="" group-title="beIN Media",Jeem HD
 http://b1g.one:80/Jackie/Jackie/59516
+
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59517
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
@@ -64,9 +65,10 @@ http://b1g.one:80/Jackie/Jackie/59519
 http://b1g.one:80/Jackie/Jackie/59520
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59521
-#EXTINF:0 tvg-id="" tvg-name="Baraem HD" tvg-logo="" group-title="beIN Media",Baraem HD
+#EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59522
-#EXTINF:0 tvg-id="" tvg-name="Drama 1 HD" tvg-logo="" group-title="beIN Media",Drama 1 HD
+
+#EXTINF:0 tvg-id="" tvg-name="beIN Drama 1 HD" tvg-logo="" group-title="beIN Media",beIN Drama 1 HD
 http://b1g.one:80/Jackie/Jackie/59523
 #EXTINF:0 tvg-id="" tvg-name="Be Junior HD" tvg-logo="" group-title="beIN Media",Be Junior HD
 http://b1g.one:80/Jackie/Jackie/59524
