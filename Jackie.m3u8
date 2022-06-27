@@ -4,9 +4,9 @@
 http://b1g.one:80/Jackie/Jackie/86135
 #EXTINF:0 tvg-id="MBC1.ae" tvg-name="MBC 1" group-title="MBC GROUP",MBC 1 HD
 http://b1g.one:80/Jackie/Jackie/86136
-#EXTINF:0 tvg-id="MBC2.ae" tvg-name="MBC 2" group-title="MBC GROUP",MBC 2
+#EXTINF:0 tvg-id="MBC2(src01).ae" tvg-name="MBC 2" group-title="MBC GROUP",MBC 2
 http://b1g.one:80/Jackie/Jackie/86137
-#EXTINF:0 tvg-id="MBC2.ae" tvg-name="MBC 2" group-title="MBC GROUP",MBC 2 HD
+#EXTINF:0 tvg-id="MBC2(src01).ae" tvg-name="MBC 2" group-title="MBC GROUP",MBC 2 HD
 http://b1g.one:80/Jackie/Jackie/86138
 #EXTINF:0 tvg-id="MBC3.ae" tvg-name="MBC 3" group-title="MBC GROUP",MBC 3
 http://b1g.one:80/Jackie/Jackie/86139
