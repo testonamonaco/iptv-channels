@@ -56,8 +56,10 @@ http://b1g.one:80/Jackie/Jackie/59516
 http://b1g.one:80/Jackie/Jackie/59517
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59518
-#EXTINF:0 tvg-id="" tvg-name="Gourmet HD" tvg-logo="" group-title="beIN Media",Gourmet HD
+
+#EXTINF:0 tvg-id="" tvg-name="beIN Gourmet" tvg-logo="" group-title="beIN Media",Gourmet HD
 http://b1g.one:80/Jackie/Jackie/59519
+
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59520
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
