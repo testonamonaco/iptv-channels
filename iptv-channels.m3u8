@@ -17,7 +17,7 @@ http://webhop.xyz:8080/live/ptwKpUTYL3/VJQ8KRCUME/4460.ts
 #EXTINF:0 tvg-id="beINSeries2.qa" tvg-name="Bein Series 2" tvg-logo="" group-title="BeIN",BeIN Series HD 2
 http://webhop.xyz:8080/live/ptwKpUTYL3/VJQ8KRCUME/4461.ts
 
-#EXTINF:0 tvg-id="" tvg-name="Gulli" tvg-logo="" group-title="BeIN",Gulli
+#EXTINF:0 tvg-id="GulliBilArabi.fr" tvg-name="Gulli" tvg-logo="" group-title="BeIN",Gulli
 http://webhop.xyz:8080/live/ptwKpUTYL3/VJQ8KRCUME/4462.ts
 
 #EXTINF:0 tvg-id="unnamed.qa" tvg-name="Unnamed" tvg-logo="" group-title="BeIN",Unnamed
