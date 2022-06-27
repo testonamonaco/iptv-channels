@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXTGRP: BeIN Group
 #EXTINF:0 tvg-id="beINSeries1.qa" tvg-name="BeIN Series HD 1" tvg-logo="" group-title="BeIN",BeIN Series HD 1
 http://webhop.xyz:8080/live/ptwKpUTYL3/VJQ8KRCUME/4455.ts
 
