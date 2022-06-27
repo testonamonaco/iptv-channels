@@ -50,7 +50,7 @@ http://b1g.one:80/Jackie/Jackie/86156
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="Jeem HD" tvg-logo="" group-title="beIN Media",Jeem HD
+#EXTINF:0 tvg-id="JeemTV.qa" tvg-name="Jeem HD" tvg-logo="" group-title="beIN Media",Jeem HD
 http://b1g.one:80/Jackie/Jackie/59516
 
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
@@ -58,7 +58,7 @@ http://b1g.one:80/Jackie/Jackie/59517
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59518
 
-#EXTINF:0 tvg-id="" tvg-name="beIN Gourmet" tvg-logo="" group-title="beIN Media",Gourmet HD
+#EXTINF:0 tvg-id="beINGourmetHD.qa" tvg-name="beIN Gourmet HD" tvg-logo="" group-title="beIN Media",Gourmet HD
 http://b1g.one:80/Jackie/Jackie/59519
 
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
@@ -68,23 +68,23 @@ http://b1g.one:80/Jackie/Jackie/59521
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59522
 
-#EXTINF:0 tvg-id="" tvg-name="beIN Drama 1 HD" tvg-logo="" group-title="beIN Media",beIN Drama 1 HD
+#EXTINF:0 tvg-id="beINDrama1HD.qa" tvg-name="beIN Drama 1 HD" tvg-logo="" group-title="beIN Media",beIN Drama 1 HD
 http://b1g.one:80/Jackie/Jackie/59523
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59524
-#EXTINF:0 tvg-id="" tvg-name="Boomerang HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="beIN Media",Boomerang HD [No Audio]
+#EXTINF:0 tvg-id="Boomerang.us" tvg-name="Boomerang HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="beIN Media",Boomerang HD [No Audio]
 http://b1g.one:80/Jackie/Jackie/59525
 #EXTINF:0 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="beIN Media",Unknown
 http://b1g.one:80/Jackie/Jackie/59526
-#EXTINF:0 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="beIN Media",FOX HD
+#EXTINF:0 tvg-id="FoxMiddleEast.us" tvg-name="FOX HD" tvg-logo="" group-title="beIN Media",FOX HD
 http://b1g.one:80/Jackie/Jackie/59527
-#EXTINF:0 tvg-id="" tvg-name="FOX Movies Action HD" tvg-logo="" group-title="beIN Media",FOX Movies Action HD
+#EXTINF:0 tvg-id="FoxMoviesMiddleEast.us" tvg-name="FOX Movies Action HD" tvg-logo="" group-title="beIN Media",FOX Movies Action HD
 http://b1g.one:80/Jackie/Jackie/59528
-#EXTINF:0 tvg-id="" tvg-name="FOX CRIME" tvg-logo="" group-title="beIN Media",FOX CRIME
+#EXTINF:0 tvg-id="FoxCrimeMiddleEast.us" tvg-name="FOX CRIME" tvg-logo="" group-title="beIN Media",FOX CRIME
 http://b1g.one:80/Jackie/Jackie/59529
 #EXTINF:0 tvg-id="" tvg-name="FOX Family Movies" tvg-logo="" group-title="beIN Media",FOX Family Movies
 http://b1g.one:80/Jackie/Jackie/59530
-#EXTINF:0 tvg-id="" tvg-name="BBC EARTH" tvg-logo="" group-title="beIN Media",BBC EARTH
+#EXTINF:0 tvg-id="BBCEarthMiddleEast.uk" tvg-name="BBC EARTH" tvg-logo="" group-title="beIN Media",BBC EARTH
 http://b1g.one:80/Jackie/Jackie/59531
 
 
@@ -102,26 +102,26 @@ http://b1g.one:80/Jackie/Jackie/199951
 #EXTINF:0 tvg-id="beINSeries1.qa" tvg-name="beIN Series 2" tvg-logo="" group-title="beIN Media",beIN Series 2
 http://b1g.one:80/Jackie/Jackie/199953
 
-#EXTINF:0 tvg-id="beINsports1premiumar.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports Premium  1" group-title="beIN Media",beIN Sports Premium  1 SD
+#EXTINF:0 tvg-id="beINSportsPremium1.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports Premium  1" group-title="beIN Media",beIN Sports Premium  1 SD
 http://b1g.one:80/Jackie/Jackie/257533
-#EXTINF:0 tvg-id="beINsports2premiumar.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports Premium  2" group-title="beIN Media",beIN Sports Premium  2 SD
+#EXTINF:0 tvg-id="beINSportsPremium2.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports Premium  2" group-title="beIN Media",beIN Sports Premium  2 SD
 http://b1g.one:80/Jackie/Jackie/257534
-#EXTINF:0 tvg-id="beINsports3premiumar.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports Premium  3" group-title="beIN Media",beIN Sports Premium  3 SD
+#EXTINF:0 tvg-id="beINSportsPremium3.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports Premium  3" group-title="beIN Media",beIN Sports Premium  3 SD
 http://b1g.one:80/Jackie/Jackie/257535
 
-#EXTINF:0 tvg-id="beINsports1ar.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 1" group-title="beIN Media",beIN Sports 1 SD
+#EXTINF:0 tvg-id="beINsports1.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 1" group-title="beIN Media",beIN Sports 1 SD
 http://b1g.one:80/Jackie/Jackie/257536
-#EXTINF:0 tvg-id="beINsports2ar.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 2" group-title="beIN Media",beIN Sports 2 SD
+#EXTINF:0 tvg-id="beINsports2.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 2" group-title="beIN Media",beIN Sports 2 SD
 http://b1g.one:80/Jackie/Jackie/257537
-#EXTINF:0 tvg-id="beINsports3ar.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 3" group-title="beIN Media",beIN Sports 3 SD
+#EXTINF:0 tvg-id="beINsports3.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 3" group-title="beIN Media",beIN Sports 3 SD
 http://b1g.one:80/Jackie/Jackie/257538
-#EXTINF:0 tvg-id="beINsports4ar.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 4" group-title="beIN Media",beIN Sports 4 SD
+#EXTINF:0 tvg-id="beINsports4.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 4" group-title="beIN Media",beIN Sports 4 SD
 http://b1g.one:80/Jackie/Jackie/257539
-#EXTINF:0 tvg-id="beINsports5ar.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 5" group-title="beIN Media",beIN Sports 5 SD
+#EXTINF:0 tvg-id="beINsports5.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 5" group-title="beIN Media",beIN Sports 5 SD
 http://b1g.one:80/Jackie/Jackie/257540
-#EXTINF:0 tvg-id="beINsports6ar.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 6" group-title="beIN Media",beIN Sports 6 SD
+#EXTINF:0 tvg-id="beINsports6.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 6" group-title="beIN Media",beIN Sports 6 SD
 http://b1g.one:80/Jackie/Jackie/257541
-#EXTINF:0 tvg-id="beINsports7ar.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 7" group-title="beIN Media",beIN Sports 7 SD
+#EXTINF:0 tvg-id="beINsports7.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 7" group-title="beIN Media",beIN Sports 7 SD
 http://b1g.one:80/Jackie/Jackie/257542
 
 #EXTINF:0 tvg-id="beINSportsEnglish1.qa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" tvg-name="beIN Sports 1 EN" group-title="beIN Media",beIN Sports 1 SD EN
